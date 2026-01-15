@@ -1,0 +1,80 @@
+body{
+font-family: 'Open Sans', sans-serif;
+-webkit-font-smoothing: antialiased;   
+background-color: #F0F4F8;
+
+}
+
+h1{
+   font-size:  36px;
+}
+
+h2{
+   font-size: 32px;
+
+}
+
+h3{
+   font-size: 28px;
+}
+
+p{
+   font-size: 16px;
+}
+li{
+   font-weight: bold;
+   
+}
+
+.subtitulo_vermelho{
+  color: #E1624F;
+}
+
+
+.cor_casais{
+   color: #0C51A7;
+}
+
+.cor_famílias{
+   color: #E5245E;
+}
+
+
+.cor_orca{
+   color: #E95E10;
+}
+figure{
+   margin:  40px 0px 40px 0px;
+}
+
+#card_hae li, #card_beo li {
+   color: #0C51A7;
+}
+
+img{
+max-width: 100%;
+height: auto;
+padding: 0;  
+transition: transform 0.3s ease;
+}
+
+#destino{
+margin-top: 64px; 
+margin-bottom: 64px;  
+}
+
+#page{
+   margin: 88px auto 137px;
+   padding: 0;
+   max-width: 1120px;
+   background-color: #F8FAFC;
+   border-radius: 18px;
+   
+}
+
+img:hover {
+    transform: scale(1.05);
+
+footer{
+   text-align: center;
+}
